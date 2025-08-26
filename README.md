@@ -17,7 +17,7 @@
 
 
 
-## 🛠️ Технологический стек
+##  Технологический стек
 
 <div align="center">
   
@@ -35,7 +35,7 @@
 - Сетевые технологии
 - Пайка SMD-компонентов
 
-## 📁 Проекты
+## Проекты
 
 ### Умный дом с голосовым управлением с интеграцией протоколов Zigbee и Modbus  
 **Период:** декабрь 2025 - август 2025  
@@ -50,19 +50,19 @@
 [Репозиторий](https://github.com/nastyaskysat/cpp-spreadsheet)  
 
 
-## 🏆 Обучение
+## Обучение
 
 - Разработчик С++ / ЯндексПрактикум
 - Платформа Степик: [ссылка](https://stepik.org/users/368750098/profile)
 
-## 📫 Контакты
+## Контакты
 
 - **Email:** nastyaskysat@mail.ru
 - **Telegram:** @nssttn
-- **Резюме:** [[ссылка на резюме]](https://disk.yandex.ru/d/QcYj0g5D1blqKQ)
+- **Резюме:** [[Ссылка]](https://disk.yandex.ru/d/QcYj0g5D1blqKQ)
 
-## 📊 Статистика GitHub
+## Статистика GitHub
 
-![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=nastyaskysat&show_icons=true&theme=radical)
 
-![Наиболее используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Наиболее используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=nastyaskysat&layout=compact&theme=radical)
